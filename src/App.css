@@ -1,0 +1,16 @@
+.bussines-container{
+    height: 399px;
+    width: 317px;
+    border-radius: 0px;
+    background-color: #1A1B21;
+    margin: 44px 117px;
+    height: 781px;
+}
+
+.photo {
+    height: 317px;
+    width: 317px;
+    clip-path: circle(50% at center);
+
+      
+}
