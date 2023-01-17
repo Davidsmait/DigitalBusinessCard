@@ -7,10 +7,88 @@
     height: 781px;
 }
 
+    /*Info section*/
+
 .photo {
     height: 317px;
     width: 317px;
     clip-path: circle(50% at center);
-
-      
 }
+
+.name-card {
+    color: #FFFFFf;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.potition-name{
+    color: #F3BF99;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.web-name {
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.email-button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    height: 34px;
+    width: 115px;
+    left: 151px;
+    top: 468px;
+    border-radius: 6px;
+    padding: 9px 13px 9px 11px;
+    margin-left: 35px;
+    color: #374151;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+
+
+
+
+}
+
+.linkedin-button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    height: 34px;
+    width: 115px;
+    left: 283px;
+    top: 468px;
+    border-radius: 6px;
+    padding: 9px 13px 9px 11px;
+    margin-left: 17px;
+    background: #5093E2;
+
+    
+}
+
+.icon-button{
+    margin-right: 7px;
+}
+
+        /*Abouts section*/
