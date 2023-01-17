@@ -89,7 +89,7 @@
     margin-right: 7px;
 }
 
-        /*Abouts section*/
+        /*Abouts and interest section*/
 
 .about-container,.interest-container {
     width: 242.71180725097656px;
@@ -115,3 +115,13 @@
     letter-spacing: 0em;
     text-align: left;
 }
+
+
+ /*Footer*/
+
+ .footer {
+    height: 64px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
